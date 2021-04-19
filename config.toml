@@ -1,4 +1,4 @@
-baseURL = "http://www.csc.kth.se/cvap/cvg/ml-seminars/"
+baseURL = "https://www.csc.kth.se/cvap/cvg/ml-seminars/"
 languageCode = "en-us"
 title = "KTH ML Seminars"
 theme = "ink"
