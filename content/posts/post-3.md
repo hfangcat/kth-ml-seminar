@@ -2,7 +2,7 @@
 title: "Hugo Touvron: Training data-efficient image transformers & distillation through attention / Going deeper with Image Transformers"
 date: "2021-04-20"
 description: "Date and Time: Tuesday, April 20, 1-2 pm"
-tags: [Upcoming-seminars]
+tags: [Transformers, Past-seminars]
 ---
 
 **Title:** Training data-efficient image transformers & distillation through attention / Going deeper with Image Transformers
@@ -15,6 +15,7 @@ tags: [Upcoming-seminars]
 
 **Meeting ID:** 699 6421 6598       **Pass code:** 600145
 
+{{% justify %}}
 **Abstract:** 
 
 **Training data-efficient image transformers & distillation through attention**
@@ -28,3 +29,4 @@ More importantly, we introduce a teacher-student strategy specific to transforme
 Transformers have been recently adapted for large scale image classification, achieving high scores shaking up the long supremacy of convolutional neural networks. However the optimization of image transformers has been little studied so far. In this work, we build and optimize deeper transformer networks for image classification. In particular, we investigate the interplay of architecture and optimization of such dedicated transformers. We make two transformers architecture changes that significantly improve the accuracy of deep transformers. This leads us to produce models whose performance does not saturate early with more depth, for instance we obtain 86.3% top-1 accuracy on Imagenet when training with no external data. Our best model establishes the new state of the art on Imagenet with Reassessed labels and Imagenet-V2 / match frequency, in the setting with no additional training data.
 
 **Bio:** Hugo Touvron is a PhD student at Facebook AI Research and Sorbonne University under the supervision of Hervé Jégou and Matthieu Cord. His research interests are image classification, transfer learning, fine-grained recognition and more generally: the application of transformers in computer vision. Prior to his PhD, Hugo got three MSc from Ecole Polytechnique, ENSTA ParisTech and ENS Cachan.
+{{% /justify %}}

@@ -2,7 +2,7 @@
 title: "Daphna Weinshall"
 date: "2019"
 description: "Date and Time: 2019"
-tags: [Past-seminars]
+tags: [Understanding-Deep-Networks, Past-seminars]
 ---
 
 **Title:** 
@@ -13,6 +13,8 @@ tags: [Past-seminars]
 
 **Place:** Room 525, Teknikringen 14
 
+{{% justify %}}
 **Abstract:** 
 
 **Bio:** 
+{{% /justify %}}
