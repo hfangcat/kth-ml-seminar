@@ -9,6 +9,15 @@
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Unsupervised-Learning</title>
+      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/unsupervised-learning/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/unsupervised-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Upcoming-seminars</title>
       <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/upcoming-seminars/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
@@ -18,11 +27,29 @@
     </item>
     
     <item>
+      <title>Transformers</title>
+      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/transformers/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/transformers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Past-seminars</title>
       <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/past-seminars/</link>
-      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/past-seminars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding-Deep-Networks</title>
+      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/understanding-deep-networks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/understanding-deep-networks/</guid>
       <description></description>
     </item>
     

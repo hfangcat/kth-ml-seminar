@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/past-seminars/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/past-seminars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alaa El-Nouby: Training Vision Transformers for Image Retrieval</title>
+      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-4/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-4/</guid>
+      <description>Title: Training Vision Transformers for Image Retrieval
+Speaker: Alaa El-Nouby, Facebook AI Research and Inria Paris
+Date and Time: Tuesday, April 20, 1-2 pm
+Place: Zoom Meeting
+Meeting ID: 699 6421 6598 Pass code: 600145
+Abstract: Transformers have shown outstanding results for natural language understanding and, more recently, for image classification. We here extend this work and propose a transformer-based approach for image retrieval: we adopt vision transformers for generating image descriptors and train the resulting model with a metric learning objective, which combines a contrastive loss with a differential entropy regularizer.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Touvron: Training data-efficient image transformers &amp; distillation through attention / Going deeper with Image Transformers</title>
+      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-3/</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-3/</guid>
+      <description>Title: Training data-efficient image transformers &amp;amp; distillation through attention / Going deeper with Image Transformers
+Speaker: Hugo Touvron, Facebook AI Research and Sorbonne University
+Date and Time: Tuesday, April 20, 1-2 pm
+Place: Zoom Meeting
+Meeting ID: 699 6421 6598 Pass code: 600145
+Abstract:
+Training data-efficient image transformers &amp;amp; distillation through attention
+Recently, neural networks purely based on attention were shown to address image understanding tasks such as image classification. However, these visual transformers are pre-trained with hundreds of millions of images using an expensive infrastructure, thereby limiting their adoption.</description>
+    </item>
+    
     <item>
       <title>Mostafa Dehghani: Scaling up Vision Models with Transformers</title>
       <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-1/</link>

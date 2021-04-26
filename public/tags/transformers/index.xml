@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KTH ML Seminars</title>
-    <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/</link>
-    <description>Recent content on KTH ML Seminars</description>
+    <title>Transformers on KTH ML Seminars</title>
+    <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/transformers/</link>
+    <description>Recent content in Transformers on KTH ML Seminars</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mathilde Caron: TBD</title>
-      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-5/</link>
-      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-5/</guid>
-      <description>Title: TBD
-Speaker: Mathilde Caron, Facebook AI Research
-Date and Time: Tuesday, May 18, 1-2 pm
-Place: Zoom Meeting
-Abstract: TBD
-Bio: TBD</description>
-    </item>
-    
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/transformers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kai Han: Transformer in Transformer</title>
       <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-2/</link>
@@ -78,52 +64,6 @@ Date and Time: Tuesday, April 13, 1-2 pm
 Place: Zoom Meeting
 Meeting ID: 698 1002 6609 Pass code: 983918
 Abstract: While the Transformer architecture has become the de-facto standard for natural language processing tasks, its applications to computer vision remain limited. In vision, attention is either applied in conjunction with convolutional networks, or used to replace certain components of convolutional networks while keeping their overall structure in place.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/about/</guid>
-      <description>The KTH Machine Learning Seminars is a series of international presentations from the field of machine learning and computer vision on certain thematic topics of interest for the KTH Division of Robotics, Perception, and Learning. The seminars is announced in a mailing list that has subscribers from other universities and industry outside KTH. If you or your colleagues want to present at this series, or have similar questions, contact Hossein Azizpour at azizpour@kth.</description>
-    </item>
-    
-    <item>
-      <title>Alyosha Efros: The Revolution Will Not Be Supervised</title>
-      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-6/</guid>
-      <description>Title: The Revolution Will Not Be Supervised
-Speaker: Alyosha Efros, University of California Berkeley
-Date and Time: 2019
-Place: Room 304, Teknikringen 14
-Abstract: Computer vision has made impressive gains through the use of deep learning models trained with large-scale labeled data. However, labels require expertise and curation and are expensive to collect. Worse, semantic supervision often leads to models that can &amp;ldquo;cheat&amp;rdquo;. Can one discover useful visual representations without the use of explicitly curated labels?</description>
-    </item>
-    
-    <item>
-      <title>Daphna Weinshall</title>
-      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-7/</guid>
-      <description>Title:
-Speaker: Daphna Weinshall, Hebrew University, Jerusalem
-Date and Time: 2019
-Place: Room 525, Teknikringen 14
-Abstract:
-Bio:</description>
-    </item>
-    
-    <item>
-      <title>Registration</title>
-      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/registration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/registration/</guid>
-      <description>Please wait a moment for the registration form to load!
-  window.addEventListener(&#39;load&#39;, function () { var options = {}; options.tags = []; options.host = &#39;https://www.kth.se&#39;; getEmbeddedForm(&#34;607986bfe946a10014f79392&#34;, options); }, { once: true });  </description>
     </item>
     
   </channel>

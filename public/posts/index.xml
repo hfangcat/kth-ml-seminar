@@ -32,7 +32,8 @@ Bio: TBD</description>
 Speaker: Kai Han, Huawei Noah’s Ark Lab
 Date and Time: Tuesday, April 27, 1-2 pm
 Place: Zoom Meeting
-Abstract: Transformer is a type of self-attention-based neural networks originally applied for NLP tasks. Recently, pure transformer-based models are proposed to solve computer vision problems. These visual transformers usually view an image as a sequence of patches while they ignore the intrinsic structure information inside each patch. In this paper, we propose a novel Transformer-iN-Transformer (TNT) model for modeling both patch-level and pixel-level representation.</description>
+Meeting ID: 621 2899 7306 Pass code: 373072
+Abstract: Transformer is a type of self-attention-based neural networks originally applied for NLP tasks. Recently, pure transformer-based models are proposed to solve computer vision problems. These visual transformers usually view an image as a sequence of patches while they ignore the intrinsic structure information inside each patch.</description>
     </item>
     
     <item>
