@@ -9,31 +9,16 @@
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/upcoming-seminars/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mathilde Caron: TBD</title>
+      <title>Mathilde Caron: Self-Supervised Learning of Visual Representations</title>
       <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-5/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-5/</guid>
-      <description>Title: TBD
+      <description>Title: Self-Supervised Learning of Visual Representations
 Speaker: Mathilde Caron, Facebook AI Research
 Date and Time: Tuesday, May 18, 1-2 pm
 Place: Zoom Meeting
-Abstract: TBD
-Bio: TBD</description>
-    </item>
-    
-    <item>
-      <title>Kai Han: Transformer in Transformer</title>
-      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-2/</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-2/</guid>
-      <description>Title: Transformer in Transformer
-Speaker: Kai Han, Huawei Noah’s Ark Lab
-Date and Time: Tuesday, April 27, 1-2 pm
-Place: Zoom Meeting
-Meeting ID: 621 2899 7306 Pass code: 373072
-Abstract: Transformer is a type of self-attention-based neural networks originally applied for NLP tasks. Recently, pure transformer-based models are proposed to solve computer vision problems. These visual transformers usually view an image as a sequence of patches while they ignore the intrinsic structure information inside each patch.</description>
+Abstract: Self-supervised learning is the problem of training deep neural network systems without using any manual annotations. Training deep networks typically requires large amounts of annotated data, which has limited their applications in fields where accessing annotations is difficult. Moreover, manual annotations are biased towards a specific task and towards the annotator&amp;rsquo;s own biases.</description>
     </item>
     
   </channel>

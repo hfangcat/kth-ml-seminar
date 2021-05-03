@@ -9,17 +9,16 @@
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/unsupervised-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mathilde Caron: TBD</title>
+      <title>Mathilde Caron: Self-Supervised Learning of Visual Representations</title>
       <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-5/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-5/</guid>
-      <description>Title: TBD
+      <description>Title: Self-Supervised Learning of Visual Representations
 Speaker: Mathilde Caron, Facebook AI Research
 Date and Time: Tuesday, May 18, 1-2 pm
 Place: Zoom Meeting
-Abstract: TBD
-Bio: TBD</description>
+Abstract: Self-supervised learning is the problem of training deep neural network systems without using any manual annotations. Training deep networks typically requires large amounts of annotated data, which has limited their applications in fields where accessing annotations is difficult. Moreover, manual annotations are biased towards a specific task and towards the annotator&amp;rsquo;s own biases.</description>
     </item>
     
     <item>
