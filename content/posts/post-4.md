@@ -20,3 +20,9 @@ tags: [Transformers, Past-seminars]
 
 **Bio:** Alaa El-Nouby is a PhD student jointly at Facebook AI Research and Inria Paris advised by Hervé Jégou, Natalia Neverova and Ivan Laptev. His research interests are metric learning, image retrieval and more recently transformers for computer vision. Prior to his PhD, Alaa got his Msc from the University of Guelph and the Vector institute, advised by Graham Taylor, where he conducted research in spatio-temporal representation learning and text-to-image synthesis with generative models.
 {{% /justify %}}
+
+{{< rawhtml >}}
+<div align="center">
+  <iframe id="kmsembed-0_qetpr7rc" width="730" height="482" src="https://play.kth.se/embed/secure/iframe/entryId/0_qetpr7rc/uiConfId/23449749" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
+</div>
+{{< /rawhtml >}}

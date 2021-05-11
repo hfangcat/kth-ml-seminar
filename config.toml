@@ -1,6 +1,6 @@
 baseURL = "https://www.csc.kth.se/cvap/cvg/ml-seminars/"
 languageCode = "en-us"
-title = "KTH ML Seminars"
+title = "KTH Machine Learning Seminars"
 theme = "ink"
 paginate = 8
 

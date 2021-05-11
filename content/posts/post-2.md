@@ -20,3 +20,9 @@ tags: [Transformers, Past-seminars]
 
 **Bio:** Kai Han is a researcher at Huawei Noah’s Ark Lab, working on computer vision, in particular visual backbone models and model compression. Before Huawei, he obtained M.S. degree in Computer Vision at Peking University and B.E. degree at Zhejiang University. You can learn more about Kai’s work and research here: https://www.semanticscholar.org/author/Kai-Han/3826388.
 {{% /justify %}}
+
+{{< rawhtml >}}
+<div align="center">
+  <iframe id="kmsembed-0_mvcfn8ri" width="730" height="482" src="https://play.kth.se/embed/secure/iframe/entryId/0_mvcfn8ri/uiConfId/23449749" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
+</div>
+{{< /rawhtml >}}

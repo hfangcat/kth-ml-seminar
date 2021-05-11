@@ -11,7 +11,9 @@ tags: [Unsupervised-Learning, Upcoming-seminars]
 
 **Date and Time:** Tuesday, May 18, 1-2 pm
 
-**Place:** Zoom Meeting
+**Place:** [Zoom Meeting](https://kth-se.zoom.us/j/62878892739?pwd=OHdrN1UxbXNEZndPVXU4cjJycFROUT09)
+
+**Meeting ID:** 628 7889 2739       **Pass code:** 053004
 
 {{% justify %}}
 **Abstract:** Self-supervised learning is the problem of training deep neural network systems without using any manual annotations. Training deep networks typically requires large amounts of annotated data, which has limited their applications in fields where accessing annotations is difficult. Moreover, manual annotations are biased towards a specific task and towards the annotator's own biases. As a result, they might be noisy and unreliable. We hope that training systems without any annotations can lead to better, more generic and more robust representations.Recent improvements in self-supervised learning methods have made them a serious alternative to traditional supervised training. In this seminar, we will discuss some of these methods and will give an overview of some recent contributions to the fast-growing field of self-supervised learning.

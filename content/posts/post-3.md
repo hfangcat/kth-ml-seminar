@@ -30,3 +30,9 @@ Transformers have been recently adapted for large scale image classification, ac
 
 **Bio:** Hugo Touvron is a PhD student at Facebook AI Research and Sorbonne University under the supervision of Hervé Jégou and Matthieu Cord. His research interests are image classification, transfer learning, fine-grained recognition and more generally: the application of transformers in computer vision. Prior to his PhD, Hugo got three MSc from Ecole Polytechnique, ENSTA ParisTech and ENS Cachan.
 {{% /justify %}}
+
+{{< rawhtml >}}
+<div align="center">
+  <iframe id="kmsembed-0_ul4p9b83" width="730" height="482" src="https://play.kth.se/embed/secure/iframe/entryId/0_ul4p9b83/uiConfId/23449749" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
+</div>
+{{< /rawhtml >}}
