@@ -17,4 +17,6 @@ tags: [Understanding-Deep-Networks, Past-seminars]
 **Abstract:** 
 
 **Bio:** 
+
+**Organizer:** Stefan Carlsson
 {{% /justify %}}

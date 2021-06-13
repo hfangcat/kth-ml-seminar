@@ -11,11 +11,15 @@ tags: [Unsupervised-Learning, Upcoming-seminars]
 
 **Date and Time:** Tuesday, June 22, 1-2 pm
 
-**Place:** Zoom Meeting
+**Place:** [Zoom Meeting](https://kth-se.zoom.us/j/69392895889?pwd=NXkvaUNzRFN1NVhOMlpuSTZhQmcvUT09)
+
+**Meeting ID:** 693 9289 5889       **Pass code:** 259475
 
 {{% justify %}}
 **Abstract:** TBD
 
 **Bio:** TBD
+
+**Organizer:** Josephine Sullivan
 
 {{% /justify %}}

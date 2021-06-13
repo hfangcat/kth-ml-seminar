@@ -18,22 +18,10 @@
 Speaker: Carl Doersch, DeepMind
 Date and Time: Tuesday, June 22, 1-2 pm
 Place: Zoom Meeting
+Meeting ID: 693 9289 5889 Pass code: 259475
 Abstract: TBD
-Bio: TBD</description>
-    </item>
-    
-    <item>
-      <title>Mathilde Caron: Self-Supervised Learning of Visual Representations</title>
-      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-5/</link>
-      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-5/</guid>
-      <description>Title: Self-Supervised Learning of Visual Representations
-Speaker: Mathilde Caron, Facebook AI Research
-Date and Time: Tuesday, May 18, 1-2 pm
-Place: Zoom Meeting
-Meeting ID: 628 7889 2739 Pass code: 053004
-Abstract: Self-supervised learning is the problem of training deep neural network systems without using any manual annotations. Training deep networks typically requires large amounts of annotated data, which has limited their applications in fields where accessing annotations is difficult. Moreover, manual annotations are biased towards a specific task and towards the annotator&amp;rsquo;s own biases.</description>
+Bio: TBD
+Organizer: Josephine Sullivan</description>
     </item>
     
   </channel>

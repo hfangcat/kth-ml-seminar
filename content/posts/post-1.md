@@ -19,6 +19,8 @@ tags: [Transformers, Past-seminars]
 **Abstract:** While the Transformer architecture has become the de-facto standard for natural language processing tasks, its applications to computer vision remain limited. In vision, attention is either applied in conjunction with convolutional networks, or used to replace certain components of convolutional networks while keeping their overall structure in place. In this talk, I'll discuss the success of non-conventional vision models on large data regime and show that not only reliance on CNNs is not necessary and a pure transformer applied directly to sequences of image patches can perform very well in a wide range vision tasks, but also, compared to CNN-based models, Transformers are much more efficient in terms of computational cost when scaled up.
 
 **Bio:** Mostafa Dehghani is a Research Scientist at Google Brain, working on scaling up language and vision algorithms, in particular attention-based models.  Before Google, he was doing a PhD in Machine Learning at the University of Amsterdam. During his PhD he focused on data-efficient deep learning and training neural networks with weak supervision. You can learn more about Mostafa's work and research here: www.mostafadehghani.com.
+
+**Organizer:** Hossein Azizpour
 {{% /justify %}}
 
 {{< rawhtml >}}

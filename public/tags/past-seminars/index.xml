@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/past-seminars/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/past-seminars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathilde Caron: Self-Supervised Learning of Visual Representations</title>
+      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-5/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-5/</guid>
+      <description>Title: Self-Supervised Learning of Visual Representations
+Speaker: Mathilde Caron, Facebook AI Research
+Date and Time: Tuesday, May 18, 1-2 pm
+Place: Zoom Meeting
+Meeting ID: 628 7889 2739 Pass code: 053004
+Abstract: Self-supervised learning is the problem of training deep neural network systems without using any manual annotations. Training deep networks typically requires large amounts of annotated data, which has limited their applications in fields where accessing annotations is difficult. Moreover, manual annotations are biased towards a specific task and towards the annotator&amp;rsquo;s own biases.</description>
+    </item>
+    
     <item>
       <title>Kai Han: Transformer in Transformer</title>
       <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-2/</link>
@@ -90,7 +104,8 @@ Speaker: Daphna Weinshall, Hebrew University, Jerusalem
 Date and Time: 2019
 Place: Room 525, Teknikringen 14
 Abstract:
-Bio:</description>
+Bio:
+Organizer: Stefan Carlsson</description>
     </item>
     
   </channel>
