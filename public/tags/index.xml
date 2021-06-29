@@ -9,29 +9,20 @@
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Past-seminars</title>
+      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/past-seminars/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/past-seminars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Unsupervised-Learning</title>
       <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/unsupervised-learning/</link>
       <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/unsupervised-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Upcoming-seminars</title>
-      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/upcoming-seminars/</link>
-      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/upcoming-seminars/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Past-seminars</title>
-      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/past-seminars/</link>
-      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/past-seminars/</guid>
       <description></description>
     </item>
     

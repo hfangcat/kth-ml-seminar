@@ -2,7 +2,7 @@
 title: "Carl Doersch: Learning and transferring visual representations with few labels: BYOL + CrossTransformers"
 date: "2021-06-22"
 description: "Date and Time: Tuesday, June 22, 1-2 pm"
-tags: [Unsupervised-Learning, Upcoming-seminars]
+tags: [Unsupervised-Learning, Past-seminars]
 ---
 
 **Title:** Learning and transferring visual representations with few labels: BYOL + CrossTransformers
@@ -23,3 +23,10 @@ tags: [Unsupervised-Learning, Upcoming-seminars]
 **Organizer:** Josephine Sullivan
 
 {{% /justify %}}
+
+{{< rawhtml >}}
+<div align="center">
+  <iframe id="kmsembed-0_dvgggvrh" width="730" height="482" src="https://play.kth.se/embed/secure/iframe/entryId/0_dvgggvrh/uiConfId/23449749" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player">
+  </iframe>
+</div>
+{{< /rawhtml >}}
