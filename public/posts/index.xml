@@ -7,7 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agrin Hilmkil: Optimizing decisions with deep end-to-end causal inference</title>
+      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-9/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-9/</guid>
+      <description>Title: Optimizing decisions with deep end-to-end causal inference
+Speaker: Agrin Hilmkil, Microsoft Research, Cambridge UK
+Date and Time: Thursday, November 10, 2-3 pm
+Place: Fantum, Lindstedtsvägen 24, Floor 5
+Video Link: Zoom Meeting
+Meeting ID: 679 0294 8719
+Abstract: In any type of decision making, the ability to predict the outcomes of different options will determine the quality of the decision made. However, traditional predictive models trained with supervised learning capture the biases of the underlying training data and are generally not robust to spurious correlations.</description>
+    </item>
+    
     <item>
       <title>Carl Doersch: Learning and transferring visual representations with few labels: BYOL &#43; CrossTransformers</title>
       <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-8/</link>

@@ -17,7 +17,7 @@ googleAnalytics = "UA-123-45"
 	# subtitle = "These focused seminars examine the specific details of various state-of-the-art papers in the CV/DL field. Please contact Hossein Azizpour (azizpour@kth.se) if you would like to deliver a seminar or to suggest a colleague."
 
 	# Optional 64x64 avatar image.
-	avatar = "https://pbs.twimg.com/profile_images/972081577256783874/2vzBcbrQ.jpg"
+	avatar = "/cvap/cvg/ml-seminars/images/KTH_Logotyp_RGB_2013.jpg"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]

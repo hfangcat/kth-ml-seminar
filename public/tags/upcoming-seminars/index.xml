@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upcoming-seminars on KTH Machine Learning Seminars</title>
+    <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/upcoming-seminars/</link>
+    <description>Recent content in Upcoming-seminars on KTH Machine Learning Seminars</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/upcoming-seminars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agrin Hilmkil: Optimizing decisions with deep end-to-end causal inference</title>
+      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-9/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-9/</guid>
+      <description>Title: Optimizing decisions with deep end-to-end causal inference
+Speaker: Agrin Hilmkil, Microsoft Research, Cambridge UK
+Date and Time: Thursday, November 10, 2-3 pm
+Place: Fantum, Lindstedtsvägen 24, Floor 5
+Video Link: Zoom Meeting
+Meeting ID: 679 0294 8719
+Abstract: In any type of decision making, the ability to predict the outcomes of different options will determine the quality of the decision made. However, traditional predictive models trained with supervised learning capture the biases of the underlying training data and are generally not robust to spurious correlations.</description>
+    </item>
+    
+  </channel>
+</rss>
