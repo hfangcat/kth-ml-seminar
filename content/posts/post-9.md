@@ -2,7 +2,7 @@
 title: "Agrin Hilmkil: Optimizing decisions with deep end-to-end causal inference"
 date: "2022-11-10"
 description: "Date and Time: Thursday, November 10, 2-3 pm"
-tags: [Casual-Machine-Learning, Upcoming-seminars]
+tags: [Casual-Machine-Learning, Past-seminars]
 ---
 
 **Title:** Optimizing decisions with deep end-to-end causal inference

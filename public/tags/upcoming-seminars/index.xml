@@ -7,20 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/upcoming-seminars/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/upcoming-seminars/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Agrin Hilmkil: Optimizing decisions with deep end-to-end causal inference</title>
-      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-9/</link>
-      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <title>Wenbo Gong: TBA</title>
+      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-10/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-9/</guid>
-      <description>Title: Optimizing decisions with deep end-to-end causal inference
-Speaker: Agrin Hilmkil, Microsoft Research, Cambridge UK
-Date and Time: Thursday, November 10, 2-3 pm
-Place: Fantum, Lindstedtsvägen 24, Floor 5
-Video Link: Zoom Meeting
-Meeting ID: 679 0294 8719
-Abstract: In any type of decision making, the ability to predict the outcomes of different options will determine the quality of the decision made. However, traditional predictive models trained with supervised learning capture the biases of the underlying training data and are generally not robust to spurious correlations.</description>
+      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-10/</guid>
+      <description>Title: TBA
+Speaker: Wenbo Gong, Microsoft Research, Cambridge UK
+Date and Time: Thursday, December 8, 3-4 pm
+Place: Zoom Meeting
+Meeting ID: 691 6539 9062
+Abstract: TBA
+Bio: TBA
+Organizer: Ruibo Tu</description>
     </item>
     
   </channel>
