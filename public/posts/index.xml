@@ -9,19 +9,18 @@
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Wenbo Gong: TBA</title>
+      <title>Wenbo Gong: Rhino: Deep Causal Temporal Relationship Learning with history-dependent noise</title>
       <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-10/</link>
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-10/</guid>
-      <description>Title: TBA
+      <description>Title: Rhino: Deep Causal Temporal Relationship Learning with history-dependent noise
 Speaker: Wenbo Gong, Microsoft Research, Cambridge UK
-Date and Time: Thursday, December 8, 3-4 pm
+Date and Time: Thursday, December 8, 3-4 pm (2-3 pm GMT)
 Place: Zoom Meeting
 Meeting ID: 691 6539 9062
-Abstract: TBA
-Bio: TBA
-Organizer: Ruibo Tu</description>
+Abstract:
+Discovering causal relationships between different variables from time series data has been a long-standing challenge for many domains. Given the complexity of real-world relationships and the nature of observation in discrete time, the causal discovery method needs to consider non-linear relations between variables, instantaneous effects and history dependent noise.</description>
     </item>
     
     <item>
