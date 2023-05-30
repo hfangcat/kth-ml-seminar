@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/unsupervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/unsupervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hamed Pirsiavash: Learning with limited labels for visual recognition</title>
+      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-11/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-11/</guid>
+      <description>Title: Learning with limited labels for visual recognition
+Speaker: Hamed Pirsiavash, University of California, Davis
+Date and Time: Monday, June 12, 11am - 12pm
+Place: Room 304, Teknikringen 14
+Abstract:
+We are interested in learning visual representations that are discriminative for semantic image understanding tasks such as object classification, detection, and segmentation in images/videos. A common approach to obtain such features is to use supervised learning. However, this requires manual annotation of images, which is costly, ambiguous, and prone to errors.</description>
+    </item>
+    
     <item>
       <title>Carl Doersch: Learning and transferring visual representations with few labels: BYOL &#43; CrossTransformers</title>
       <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-8/</link>

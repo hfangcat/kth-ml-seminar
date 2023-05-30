@@ -2,7 +2,7 @@
 title: "Wenbo Gong: Rhino: Deep Causal Temporal Relationship Learning with history-dependent noise"
 date: "2022-12-08"
 description: "Date and Time: Thursday, December 8, 3-4 pm"
-tags: [Casual-Machine-Learning, Upcoming-seminars]
+tags: [Casual-Machine-Learning, Past-seminars]
 ---
 
 **Title:** Rhino: Deep Causal Temporal Relationship Learning with history-dependent noise
