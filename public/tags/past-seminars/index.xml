@@ -7,7 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/past-seminars/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csc.kth.se/cvap/cvg/ml-seminars/tags/past-seminars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gül Varol: Is Human Motion a Language without Words?</title>
+      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-12/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-12/</guid>
+      <description>Title: Is Human Motion a Language without Words?
+Speaker: Gül Varol, École des Ponts ParisTech
+Date and Time: Monday, June 12, 10am - 11am
+Place: Room 304, Teknikringen 14
+Abstract:
+This talk will summarize our recent works on bridging the gap between natural language and 3D human motions. I will first show results on text-to-motion synthesis, i.e., text-conditioned generative models for controllable motion synthesis, with a special focus on compositionality to handle finegrained textual descriptions.</description>
+    </item>
+    
+    <item>
+      <title>Hamed Pirsiavash: Learning with limited labels for visual recognition</title>
+      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-11/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-11/</guid>
+      <description>Title: Learning with limited labels for visual recognition
+Speaker: Hamed Pirsiavash, University of California, Davis
+Date and Time: Monday, June 12, 11am - 12pm
+Place: Room 304, Teknikringen 14
+Abstract:
+We are interested in learning visual representations that are discriminative for semantic image understanding tasks such as object classification, detection, and segmentation in images/videos. A common approach to obtain such features is to use supervised learning. However, this requires manual annotation of images, which is costly, ambiguous, and prone to errors.</description>
+    </item>
+    
     <item>
       <title>Wenbo Gong: Rhino: Deep Causal Temporal Relationship Learning with history-dependent noise</title>
       <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/post-10/</link>

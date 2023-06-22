@@ -2,7 +2,7 @@
 title: "Gül Varol: Is Human Motion a Language without Words?"
 date: "2023-06-12"
 description: "Date and Time: Monday, June 12, 10am - 11am"
-tags: [Upcoming-seminars]
+tags: [Past-seminars]
 ---
 
 **Title:** Is Human Motion a Language without Words?
@@ -21,3 +21,12 @@ This talk will summarize our recent works on bridging the gap between natural la
 **Bio:** Gül Varol is a permanent researcher in the IMAGINE team at École des Ponts ParisTech. Previously, she was a postdoctoral researcher at the University of Oxford (VGG). She obtained her PhD from the WILLOW team of Inria Paris and École Normale Supérieure (ENS). Her thesis received the PhD awards from ELLIS and AFRIF. Her research is focused on computer vision, specifically video representation learning, human motion analysis, and sign languages.
 
 **Organizer:** Hossein Azizpour
+{{% /justify %}}
+
+{{< rawhtml >}}
+<div align="center">
+  <iframe id="kmsembed-0_el0tzaof" width="730" height="482" src="https://play.kth.se/embed/secure/iframe/entryId/0_el0tzaof/uiConfId/23449749" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Gul_Varol"></iframe>
+</div>
+{{< /rawhtml >}}
+
+**Note:** The slide is stuck on the first page for the first 6 minutes but it will be corrected.

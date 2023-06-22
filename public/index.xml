@@ -199,5 +199,17 @@ Organizer: Stefan Carlsson</description>
   window.addEventListener(&#39;load&#39;, function () { var options = {}; options.tags = []; options.host = &#39;https://www.kth.se&#39;; getEmbeddedForm(&#34;607986bfe946a10014f79392&#34;, options); }, { once: true });  </description>
     </item>
     
+    <item>
+      <title>TBA</title>
+      <link>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/tba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csc.kth.se/cvap/cvg/ml-seminars/posts/tba/</guid>
+      <description>Title: TBA
+Speaker: TBA
+Date and Time: TBA
+Place: TBA</description>
+    </item>
+    
   </channel>
 </rss>
